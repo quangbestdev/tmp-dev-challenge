@@ -16,7 +16,7 @@ The challenge is to **make a blog listing page** using React, here in this start
 
 - clone this repository (when done, please email us the link to it and we will run it locally ourselves. No need to deploy it anywhere, or open any PRs on the original repo)
 - Build the `/blog` page, following the design as closely as possible, and use your best judgement for making it mobile-responsive.
-- You do NOT need to use the exact fonts in the design. Use the built-in sans-serif font already in place.
+- You do NOT need to use the exact fonts in the design. 
 - You do NOT need to make the header/navbar at the top. You can ignore it and have the top of the page just be white.
 - The blogs do NOT need to link anywhere. There are no other pages or templates in this challenge.
 - use any method of styling you want (css, sass, styled-components, styled-jsx, etc.)
