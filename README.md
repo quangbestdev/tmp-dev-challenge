@@ -28,4 +28,4 @@ The challenge is to **make a blog listing page** using React, here in this start
 
 Good luck, and let us know if you have any questions!
 
-<img src='/design-preview.png' >
+![blog design preview]('design-preview.png')
