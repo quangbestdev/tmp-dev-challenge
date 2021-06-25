@@ -22,6 +22,7 @@ The challenge is to **make a blog listing page** using React, here in this start
 - use any method of styling you want (css, sass, styled-components, styled-jsx, etc.)
 - The data you need to create the blog post cards is hardcoded in the `blogs.js` file. Each blog post has 1-2 `categories`, and the blog post cards can be filtered by clicking/selecting the categories at the top.
 - Any number of `categories` can be active/selected at any time. A blog post card is visible if at least one of its categories has been selected. If no categories are selected, all blog post cards are visible.
+- the hover state for selected categories should follow the design. Any other hover states you create on the page are bonus points!
 - You should also make the 'Get Started With Undone' panel, as well as the footer. Make them as mobile-responsive as you want.
 - Email us a link to the repo when done!
 
