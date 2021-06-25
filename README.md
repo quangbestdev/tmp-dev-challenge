@@ -26,3 +26,5 @@ The challenge is to **make a blog listing page** using React, here in this start
 - Email us a link to the repo when done!
 
 Good luck, and let us know if you have any questions!
+
+<img src='/design-preview.png' >
