@@ -1,8 +1,13 @@
+import Link from 'next/link';
+
 export default function Home() {
   return (
-    <div>
+    <div style={{ padding: '32px' }}>
       This is the homepage. To complete the challenge, please use the{' '}
-      <code>pages/blog/index.js</code> page.
+      <Link href='/blog' style={{ color: 'blue' }}>
+        <a style={{ color: 'blue' }}>/blog</a>
+      </Link>{' '}
+      page.
     </div>
   );
 }

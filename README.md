@@ -16,8 +16,11 @@ The challenge is to **make a blog listing page** using React, here in this start
 
 - clone this repository (when done, please email us the link to it and we will run it locally ourselves. Do not deploy it anywhere, or open any PRs on the original repo)
 - Build the `/blog` page, following the design as closely as possible, and use your best judgement for making it mobile-responsive.
+- You do NOT need to use the exact fonts in the design. Use the built-in sans-serif font already in place.
 - You do NOT need to make the header/navbar at the top. You can ignore it and have the top of the page just be white.
-- The data you need to create the blog post cards is hardcoded at the top of the page. Each blog post has 1-2 `categories`, and the blog post cards can be filtered by clicking/selecting the categories at the top.
+- The blogs do NOT need to link anywhere. There are no other pages or templates in this challenge.
+- use any method of styling you want (css, sass, styled-components, styled-jsx, etc.)
+- The data you need to create the blog post cards is hardcoded in the `blogs.js` file. Each blog post has 1-2 `categories`, and the blog post cards can be filtered by clicking/selecting the categories at the top.
 - Any number of `categories` can be active/selected at any time. A blog post card is visible if at least one of its categories has been selected. If no categories are selected, all blog post cards are visible.
 - You should also make the 'Get Started With Undone' panel, as well as the footer. Make them as mobile-responsive as you want.
 - Email us a link to the repo when done!
