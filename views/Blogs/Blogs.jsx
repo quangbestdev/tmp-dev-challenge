@@ -4,7 +4,7 @@ import Typography from '../../components/Typography';
 import Divider from '../../components/Divider';
 import GetStarted from '../../components/GetStarted';
 import Layout from '../../components/Layout';
-import CategoryTab from '../../components/CategoryTab/CategoryTab';
+import CategoryTab from '../../components/CategoryTab';
 
 import styles from './Blogs.module.css';
 
